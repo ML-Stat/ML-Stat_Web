@@ -1,6 +1,6 @@
-baseurl = "https://www.SummerTechForum.com/"
+baseurl = "https://ml-stat.github.io/MLSTAT2023/"
 languageCode = "en-us"
-title = "Artificial Intelligence and Statistics 2023"
+title = "Maching Learning and Statistics 2023"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
@@ -17,7 +17,7 @@ unsafe = true
 	description = "A Self-Organizing Open-Spaces Unconference"
 
 	logo = "/images/logo-color-small.png"
-	favicon = "images/stf-favicon-32.png"
+	favicon = "images/logo-color-small-2.png"
 	banner_image = "/images/mlstat.jpg"
 
 	permalink = "#"
@@ -41,7 +41,7 @@ unsafe = true
 [social]
 	twitter = ""
 	github  = "/orgs/ML-Stat/repositories"
-	email   = "mindviewinc@gmail.com"
+	email   = "xiangyuchang@stu.edu.cn"
 
 [[menu.main]]
 	name   = "Overview"
@@ -49,84 +49,14 @@ unsafe = true
 	weight = 10
 
 [[menu.main]]
-  name   = "About Crested Butte"
-  url    = "aboutcrestedbutte"
-  weight = 15
-
-[[menu.main]]
-	name   = "Conference Theme"
-	url    = "conferencetheme"
-	weight = 20
-
-[[menu.main]]
-	name   = "Code of Conduct"
-	url    = "codeofconduct"
-	weight = 25
-
-	[[menu.main]]
-	name   = "Open Spaces"
-	url    = "openspaces"
-	weight = 30
-
-[[menu.main]]
-	name   = "Schedule"
-	url    = "schedule"
+	name   = "Committee"
+	url    = "committee"
 	weight = 40
 
 [[menu.main]]
-	name   = "Lightning Talks"
-	url    = "lightningtalks"
-	weight = 50
-
-[[menu.main]]
-	name   = "Hackathon"
-	url    = "hackathon"
-	weight = 60
-
-[[menu.main]]
-	name   = "Morning Activities"
-	url    = "activities"
-	weight = 70
-
-[[menu.main]]
-	name   = "Venue"
-	url    = "venue"
-	weight = 100
-
-[[menu.main]]
-	name   = "Travel"
-	url    = "travel"
-	weight = 110
-
-[[menu.main]]
-	name   = "Lodging"
-	url    = "lodging"
-	weight = 120
-
-[[menu.main]]
-	name   = "Health"
-	url    = "health"
-	weight = 130
-
-[[menu.main]]
-	name   = "Registration"
-	url    = "registration"
-	weight = 140
-
-[[menu.main]]
-	name   = "Contact"
-	url    = "contact"
-	weight = 150
-
-[[menu.main]]
-	name   = "Opening Session"
-	url    = "openingsession"
+	name   = "Schedule And Session"
+	url    = "schedulesession"
 	weight = 160
-
-[[menu.main]]
-	name   = "Ideas"
-	url    = "ideas"
-	weight = 170
 
 [blackfriday]
 	smartypants	= true
