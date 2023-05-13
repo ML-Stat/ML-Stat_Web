@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence and Statistics 2023</title>
-    <link>https://ml-stat.github.io/ML-Stat_Web/</link>
+    <link>https://ml-stat.github.io/MLSTAT2023/</link>
     <description>Recent content on Artificial Intelligence and Statistics 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ml-stat.github.io/ML-Stat_Web/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ml-stat.github.io/MLSTAT2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/overview/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/overview/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/overview/</guid>
       <description>Organized by Bruce Eckel August 15-19, 2022 (Formerly The Java Posse Roundup)
 NOTE: Many companies are still not supporting travel to conferences, so the event this Summer has become a developer retreat, which is a smaller and far less formal gathering. It does not have an entrance fee, because we will not be using the Parish Hall as we usually do. In addition, we will not be following the schedule on this site, but will organically be creating discussions, workshops to explore particular topics, and outdoor activities.</description>
     </item>
     
     <item>
       <title>Conference Theme</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/conferencetheme/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/conferencetheme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/conferencetheme/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/conferencetheme/</guid>
       <description>Although the theme sets the general tone of the conference, it doesn&amp;rsquo;t preclude session topics that might be considered &amp;ldquo;off theme.&amp;rdquo; The goal of the theme is to stimulate ideas, not to prevent discussion.
 Software Reliability We&amp;rsquo;ve made dramatic advances in many areas of software development, but reliability seems like it&amp;rsquo;s the last to gain focus&amp;mdash;probably because the topic is so challenging.
 What are the different aspects of reliability? What have we tried that hasn&amp;rsquo;t worked?</description>
@@ -29,30 +29,30 @@ What are the different aspects of reliability? What have we tried that hasn&amp;
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/codeofconduct/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/codeofconduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/codeofconduct/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/codeofconduct/</guid>
       <description>This conference is about discussion, inclusion and connection, and we want everyone to feel as comfortable as possible. Although we cannot guarantee you will have a good time, we can certainly do our best to make sure you don&amp;rsquo;t have a bad time, and the baseline for this is that no one should ever be harassed.
 To achieve this goal, all participants, sponsors and volunteers at our event are required to agree with this Code of Conduct (CoC).</description>
     </item>
     
     <item>
       <title>An Open Spaces Conference</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/openspaces/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/openspaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/openspaces/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/openspaces/</guid>
       <description>What&amp;rsquo;s the best thing that happened at the last conference you attended? It&amp;rsquo;s very likely you&amp;rsquo;ll remember one or more &amp;ldquo;hallway conversations,&amp;rdquo; or perhaps a &amp;ldquo;Birds-Of-A-Feather&amp;rdquo; session. An Open Spaces conference creates that experience for the entire conference, by ensuring that you are always having the most interesting conversation possible. The emphasis is on discussion, instead of listening to eyes-forward presentations.
 Open Spaces is a simple methodology to create a self-organizing conference.</description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/schedule/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/schedule/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/</guid>
       <description>Outdoor activities will be in the morning, sessions in the afternoon (when it often rains) Pre-conference: If you arrive early, post something on Slack. If I or others are around and available, we might be able to come out for meals or other activities.
 Post-conference: Often people stay the day after the conference or for the weekend; informal gatherings have been known to happen.
 Sunday 6:00pm Welcome Potluck Barbeque at Bruce&amp;rsquo;s House (107 WhiteRock).</description>
@@ -60,30 +60,30 @@ Sunday 6:00pm Welcome Potluck Barbeque at Bruce&amp;rsquo;s House (107 WhiteRock
     
     <item>
       <title>Lightning Talks</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/lightningtalks/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/lightningtalks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/lightningtalks/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/lightningtalks/</guid>
       <description>Lightning talks are informal five-minute presentations about something that interests you. The topic does not need to be something technical. On the contrary, you are encouraged to talk about something you do that inspires you. Some of the most memorable presentations have had little or nothing to do with computers.
 There will be a sheet in the Parish Hall for you to add your name if you&amp;rsquo;d like to give a talk.</description>
     </item>
     
     <item>
       <title>Hackathon</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/hackathon/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/hackathon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/hackathon/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/hackathon/</guid>
       <description>On Wednesday, we take a break from discussions and run a one-day hackathon. Hackathons typically explore new technologies or even create new product prototypes. Past hackathons have ranged from hardware projects to the exploration of new languages, and some have focused on a particular product or technology.
 All you need is a group that wants to explore a topic. You&amp;rsquo;ll probably start forming groups on Monday and Tuesday, as you discover other people&amp;rsquo;s interests.</description>
     </item>
     
     <item>
       <title>Morning Activities</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/activities/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/activities/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/activities/</guid>
       <description>During conference days (Monday, Tuesday, Thursday and Friday), the mornings are unscheduled time. There are numerous options. Although these look like pure recreation, we have some of our most interesting discussions once the structure and constraints are completely removed.
 Hiking There are numerous hikes available and I often lead some. Here are some basic easy hikes:
 The Woods Walk, starting at the top (West) end of Maroon Avenue (the street just north of Elk Avenue).</description>
@@ -91,10 +91,10 @@ The Woods Walk, starting at the top (West) end of Maroon Avenue (the street just
     
     <item>
       <title>About Crested Butte</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/aboutcrestedbutte/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/aboutcrestedbutte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/aboutcrestedbutte/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/aboutcrestedbutte/</guid>
       <description>Crested Butte is a small resort town located at about 9000 feet, near the continental divide. It is known for its scenic beauty, skiing in the winter and hiking, mountain biking, and other outdoor activities in the summer.
 17 gameing
 PhotosWe hold the event in town, and free buses run up to the ski mountain every 15 minutes.
@@ -103,10 +103,10 @@ Travel details Lodging details This site is probably the most well-maintained re
     
     <item>
       <title>Venue</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/venue/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/venue/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/venue/</guid>
       <description>The conference is held at the Parish Hall of the Queen of All Saints Catholic Church, 401 Sopris Ave. The church itself has a dramatic arched copper roof, and the parish hall is the building behind it, across the parking lot from the church.
 Elk Avenue is our &amp;ldquo;main street,&amp;rdquo; where you&amp;rsquo;ll find most of the shops and restaurants.
 One way to find the Parish Hall is to first find Camp4 Coffee, then go east a block through the alley next to Camp4:</description>
@@ -114,59 +114,59 @@ One way to find the Parish Hall is to first find Camp4 Coffee, then go east a bl
     
     <item>
       <title>Travel</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/travel/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/travel/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/travel/</guid>
       <description>The Cheapest Way (With Others) Denver is a hub for Southwest Airlines and Frontier Airlines, so you can usually get an inexpensive nonstop flight. Use the Slack channel to find others to share your car rental. Rent a car from Denver. If you&amp;rsquo;re a Costco member, their car rental service is exceptional. The Cheapest Way (On Your Own) Fly to Denver airport on a discount airline like Southwest. Denver is a Southwest hub, so you can usually get a nonstop flight.</description>
     </item>
     
     <item>
       <title>Lodging</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/lodging/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/lodging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/lodging/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/lodging/</guid>
       <description>Group Houses One of the most popular things to do for conferences is to rent houses together. This might or might not be cheaper, but it&amp;rsquo;s generally more fun and a nicer experience. It also adds an additional workspace during the event.
 Make sure you add yourself to the slack channel for the conference, so you can make arrangements with other attendees to rent houses. Usually one person finds the house, and then others come and fill it up.</description>
     </item>
     
     <item>
       <title>Health</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/health/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/health/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/health/</guid>
       <description>The local urgent-care clinic is in Mount Crested Butte, open every day from9 am to 5 pm.This Linkincludes their phone number and a map. They accept most insurance.Altitude We are at 9,000 feet in Crested Butte so you will feel the altitude. Tips for preventing altitude-hurt:
 It&amp;rsquo;s mostly about water, and your cells take time to lose their water (which is when you feel it). They also take time to re-absorb water, so you can&amp;rsquo;t just drink a glass and fix it.</description>
     </item>
     
     <item>
       <title>Registration</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/registration/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/registration/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/registration/</guid>
       <description>Step 1: Join the Conference Newsgroup (called &amp;ldquo;Java Posse Roundup&amp;rdquo; for historical reasons). General announcements are made through the newsgroup. Make sure you use the email address where you would like to receive information about the conference. That is, use the attendee&amp;rsquo;s address and not an admin&amp;rsquo;s address. This address will not be used for anything except the conference.
 Step 2: Join the Conference Slack channel. You can post questions to the Slack channel, arrange ride sharing, group house rentals, etc.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/contact/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/contact/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/contact/</guid>
       <description>
 Questions? Send an email!Site built with Hugo Using &amp;lt;a href=&amp;ldquo;https://github.com/BruceEckel/hugo-material-banner&amp;quot;target=&amp;quot;_blank&amp;quot;&amp;gt;a theme derived from Material Deployed using Netlify </description>
     </item>
     
     <item>
       <title>Notes for Opening Session</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/openingsession/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/openingsession/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/openingsession/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/openingsession/</guid>
       <description>我是袁堂植
 我是袁堂植
 Open Spaces: creating discussion
@@ -175,10 +175,10 @@ Post-its, merging similar sessions, moving sessions around Photgraph the board w
     
     <item>
       <title>Various Ideas and Suggestions</title>
-      <link>https://ml-stat.github.io/ML-Stat_Web/ideas/</link>
+      <link>https://ml-stat.github.io/MLSTAT2023/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/ML-Stat_Web/ideas/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2023/ideas/</guid>
       <description>Wall page for go-to-dinner groups. Take new people. Suggest reservations.
 Emphasize speaking style and making room for others; creating a safe space. Put at beginning of opening session.
 Session about new people; those who have come before can only ask questions
