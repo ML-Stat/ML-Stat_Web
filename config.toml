@@ -1,6 +1,6 @@
 baseurl = "https://ml-stat.github.io/MLSTAT2023/"
 languageCode = "en-us"
-title = "Maching Learning and Statistics 2023"
+title = "ML&STAT 2023"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
@@ -54,7 +54,7 @@ unsafe = true
 	weight = 40
 
 [[menu.main]]
-	name   = "Schedule And Session"
+	name   = "Schedule"
 	url    = "schedulesession"
 	weight = 160
 
