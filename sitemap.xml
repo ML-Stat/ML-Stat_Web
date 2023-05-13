@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/overview/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/overview/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/conferencetheme/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/conferencetheme/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/codeofconduct/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/codeofconduct/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/openspaces/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/openspaces/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/schedule/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/schedule/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/lightningtalks/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/lightningtalks/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/hackathon/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/hackathon/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/activities/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/activities/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/aboutcrestedbutte/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/aboutcrestedbutte/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/venue/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/venue/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/travel/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/travel/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/lodging/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/lodging/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/health/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/health/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/registration/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/registration/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/contact/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/contact/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/openingsession/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/openingsession/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/ideas/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/ideas/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/ML-Stat_Web/</loc>
+    <loc>https://github.com/ML-Stat/ML-Stat_Web/tree/main/static/</loc>
   </url>
 </urlset>
