@@ -1,6 +1,6 @@
 baseurl = "https://ml-stat.github.io/MLSTAT2023/"
 languageCode = "en-us"
-title = "ML&STAT 2023"
+title = "MLSTAT 2023"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
