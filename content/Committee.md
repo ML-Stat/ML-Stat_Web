@@ -3,17 +3,8 @@ title: Committee
 weight: 160
 ---
 
-- Open Spaces: creating discussion
-  - Post-its, merging similar sessions, moving sessions around
-  - Photgraph the board when you change it (when it settles down), post to "Board" on Slack (?)
-  - Law of two feet
-  - Law of two ears and one mouth
-  - Invert your participation mode
-  - It's OK to try any experiment via post-it. Like Julie's request for help on python.
-  - Even if only one person shows up you'll have an experience. If no one shows up,
-    you might have scheduled it against something that people really wanted to see,
-    it doesn't mean your idea was bad.
-
+- General Chair: Zhihuang Zhang and Aoying Zhou
+  
 
 
 
