@@ -3,7 +3,7 @@ title: Committee
 weight: 160
 ---
 
-- General Chair: Zhihuang Zhang and Aoying Zhou
+- General Chair:  Zhihua Zhang
   
 
 
