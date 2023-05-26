@@ -1,20 +1,38 @@
 ---
-title: Committee
+title: Machine Learning and Statistics 2023 Organizing Committee
 weight: 160
 ---
 
-- General Chair:  Zhihua Zhang and Aoying Zhou
-  
-
-
-
+- **General Chair**:\
+  Zhihua Zhang, Peking University\
+  Aoying Zhou, East China Normal University
 ________________________________________
 
-- Pronouns and whether photos are ok
-- Group picture on Thursday during a morning session break
-- Butterflies and bumblebees. If you're thinking it'll be over soon...
-- Private feedback, public reflection
-- Would you be interested in some difficult feedback?
-- Explicit permission to take care of yourself. Law of two feet writ large.
-- Eyes forward conference presentation is about the happy path. We talk about problems and challenges
-- Badge space so people don't worry about forgetting badges
+- **Program Committee** 
+    - **Program Chair**:\
+     Wei Lin, Peking University\
+     Shurong Zheng, Northeast Normal University
+    - **Program Members**:\
+    Fang Fang, East China Normal University\
+    Tao Hu, Capital Normal University\
+    Yuling Jiao, Wuhan University\
+    Sai Li, Renmin University of China\
+    Qian Lin, Tsinghua University\
+    Xiaojun Mao, Shanghai Jiao Tong University\
+    Deyu Meng, Xi'an Jiaotong University\
+    Wang Miao, Peking University\
+    Yijie Peng, Peking University\
+    Yixuan Qiu, Shanghai University of Finance and Economics\
+    Yan Xia, Fudan University\
+    Pengkun Yang, Tsinghua University\
+    Jianxin Yin, Renmin University of China\
+    Zemin Zheng, University of Science and Technology of China\
+    Wei Zhong, Xiamen University\
+    Ling Zhou, Southwestern University of Finance and Economics
+________________________________________
+- **Communication Chair**:\
+Xiangyu Chang, Xi'an Jiaotong University\
+Zhou Yu, East China Normal University
+
+
+

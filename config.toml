@@ -55,7 +55,7 @@ unsafe = true
 
 [[menu.main]]
 	name   = "Schedule"
-	url    = "schedulesession"
+	url    = "schedule"
 	weight = 160
 
 [blackfriday]
