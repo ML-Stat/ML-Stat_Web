@@ -11,21 +11,21 @@ Friday, Aug 25, 2023
 <hr style="border: 0; border-top: 5px solid;">
 
 <div class="tip">
-    <img class="icon" src="/icon/shizhong.png" />
+    <img class="icon" src="/images/shizhong.png" />
     <u>Time</u>: 1:30 pm — 2:30 pm 
 </div>
 <div class="tip">
-    <img class="icon" src="/icon/didian.png" />
+    <img class="icon" src="/images/didian.png" />
     <u>location</u>: Xian Jiaotong university, room 101
 </div>
 
 <div class="tip">
-    <img class="icon" src="/icon/yanjiang.png" />
+    <img class="icon" src="/images/yanjiang.png" />
     <u>Session</u>: <span class="font-bold" style="font-size:120%">Trustworthy Machine Learning</span>
 </div>
 
 <div class="tip">
-    <img class="icon" src="/icon/lingdao.png" />
+    <img class="icon" src="/images/lingdao.png" />
     <u>Session Chair</u>: <a href="http://xiangyuchang.github.io/" target="_blank">Xiangyu Chang</a>
 </div>
 
