@@ -79,7 +79,7 @@ ________________________________________
         <img src="/images/person.jpeg" class="avatar" />
         <div class="font-small font-bold">
             <a>
-                Xiao Guuo
+                Xiao Guo
             </a>
         </div>
     </div>
