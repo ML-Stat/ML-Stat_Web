@@ -21,7 +21,7 @@
                 <img src="{{ $.Site.BaseURL }}{{ . }}">
                 </div>
             {{ end }}
-            <h1>Pages in {{ .Title | singularize }}</h1>
+            <h1>{{ .Title | singularize }}</h1>
 
             {{ range .Data.Pages }}
             <a href="{{ .Permalink }}" title="{{ .Title }}">
