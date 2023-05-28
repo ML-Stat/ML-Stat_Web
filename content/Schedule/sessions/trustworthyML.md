@@ -58,7 +58,7 @@ ________________________________________
     <div class="left">
         <img src="/images/haishan.jpeg" class="avatar" />
         <div class="font-small font-bold">
-            <a>
+            <a href="https://scholar.google.com/citations?user=kriqtukAAAAJ&hl=zh-TW" target="_blank">
                 Haishan Ye
             </a>
         </div>
@@ -79,7 +79,7 @@ ________________________________________
     <div class="left">
         <img src="/images/guoxiao.jpeg" class="avatar" />
         <div class="font-small font-bold">
-            <a>
+            <a href="https://scholar.google.com/citations?user=v4FLN-gAAAAJ&hl=en" target="_blank">
                 Xiao Guo
             </a>
         </div>
