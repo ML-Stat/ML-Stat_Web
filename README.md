@@ -1,2 +1,6 @@
 # ML-Stat_Web
-ML&amp;Stat Website
+MLStat Website
+
+hugo --cleanDestinationDir
+hugo -D
+hugo server

@@ -1,32 +1,33 @@
 ---
-title: Schedule
-weight: 40
+title: "Trustworthy Machine Learning"
+summary: "1:30 pm — 2:30 pm, Friday, Aug 25, 2023"
+tags: "123"
 ---
-
-
 
 Friday, Aug 25, 2023
 ------
 
+
 <hr style="border: 0; border-top: 5px solid;">
 
 <div class="tip">
-    <img class="icon" src="/images/shizhong.png" />
-    <u>Time</u>: 1:30 pm — 2:30 pm 
-</div>
-<div class="tip">
-    <img class="icon" src="/images/didian.png" />
-    <u>location</u>: Room 101
+    <img class="icon" src="/icon/yanjiang.png" />
+    Session: <span class="font-bold" style="font-size:120%">Trustworthy Machine Learning</span>
 </div>
 
 <div class="tip">
-    <img class="icon" src="/images/yanjiang.png" />
-    <u>Session</u>: <span class="font-bold" style="font-size:120%">Trustworthy Machine Learning</span>
+    <img class="icon" src="/icon/shizhong.png" />
+    Time: 1:30 pm — 2:30 pm 
+</div>
+<div class="tip">
+    <img class="icon" src="/icon/didian.png" />
+    location: room 101
 </div>
 
+
 <div class="tip">
-    <img class="icon" src="/images/lingdao.png" />
-    <u>Session Chair</u>: <a href="http://xiangyuchang.github.io/" target="_blank">Xiangyu Chang</a>
+    <img class="icon" src="/icon/lingdao.png" />
+    Session Chair: <a href="http://xiangyuchang.github.io/" target="_blank">Xiangyu Chang</a>
 </div>
 
 
@@ -95,9 +96,6 @@ ________________________________________
     </div>
 </div>
 
-
-
-
 <style>
 
 .tip {
@@ -120,7 +118,6 @@ ________________________________________
     display: flex; 
 }
 
-
 .left {
     min-width: 150px !important;
     text-align: center;
@@ -140,7 +137,7 @@ ________________________________________
 
 
 .font-small {
-    font-size: 12px;
+    /* font-size: 16px; */
 }
 
 .font-bold {
