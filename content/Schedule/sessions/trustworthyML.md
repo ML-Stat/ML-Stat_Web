@@ -56,7 +56,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/person.jpeg" class="avatar" />
+        <img src="/images/haishan.jpeg" class="avatar" />
         <div class="font-small font-bold">
             <a>
                 Haishan Ye
@@ -77,7 +77,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/person.jpeg" class="avatar" />
+        <img src="/images/guoxiao.jpeg" class="avatar" />
         <div class="font-small font-bold">
             <a>
                 Xiao Guo
