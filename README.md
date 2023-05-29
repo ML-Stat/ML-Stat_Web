@@ -2,5 +2,7 @@
 MLStat Website
 
 hugo --cleanDestinationDir
+
 hugo -D
+
 hugo server
