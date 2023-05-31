@@ -24,7 +24,7 @@ ________________________________________
 -->
 <br/>
 <div style="text-align:center;font-size:175%;font-weight:bold">
-<a href = "/registration">Registration</a>
+Registration
 </div>
 
 <hr style="border: 0; border-top: 5px solid;">
