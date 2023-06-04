@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLSTAT 2023</title>
+    <link>https://ml-stat.github.io/MLSTAT2023/</link>
+    <description>Recent content on MLSTAT 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ml-stat.github.io/MLSTAT2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/overview/</guid>
+      <description>The 1st International Conference on Machine Learning and Statistics (MLSTAT) will be held
+Date: August 25-26, 2023. Localtion: Minhang Campus, East China Normal University, Shanghai, China. Aim: The Machine Learning and Statistics Conference (MLSTAT) is an academic conference that serves to facilitate scholarly exchange among domestic and international scholars in the fields of machine learning and statistics. Through fostering an academic culture that promotes the mutual development of machine learning and statistics, the conference aims to advance foundational disciplines such as data science and artificial intelligence, and thereby contribute to the development of related digital economic industries.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Statistics 2023 Organizing Committee</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/committee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/committee/</guid>
+      <description>General Chair:
+Zhihua Zhang, Peking University
+Aoying Zhou, East China Normal University Program Committee Program Chair:
+Wei Lin, Peking University
+Shurong Zheng, Northeast Normal University Program Members:
+Fang Fang, East China Normal University
+Tao Hu, Capital Normal University
+Yuling Jiao, Wuhan University
+Sai Li, Renmin University of China
+Qian Lin, Tsinghua University
+Xiaojun Mao, Shanghai Jiao Tong University
+Deyu Meng, Xi&amp;rsquo;an Jiaotong University
+Wang Miao, Peking University
+Yijie Peng, Peking University</description>
+    </item>
+    
+    <item>
+      <title>SAM</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/sam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/sam/</guid>
+      <description>1:30 pm — 2:30 pm, Friday, Aug 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Machine Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/trustworthyml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/trustworthyml/</guid>
+      <description>1:30 pm — 2:30 pm, Friday, Aug 25, 2023</description>
+    </item>
+    
+  </channel>
+</rss>

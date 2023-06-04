@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedules on MLSTAT 2023</title>
+    <link>https://ml-stat.github.io/MLSTAT2023/schedule/</link>
+    <description>Recent content in Schedules on MLSTAT 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ml-stat.github.io/MLSTAT2023/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAM</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/sam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/sam/</guid>
+      <description>1:30 pm — 2:30 pm, Friday, Aug 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Machine Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/trustworthyml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/trustworthyml/</guid>
+      <description>1:30 pm — 2:30 pm, Friday, Aug 25, 2023</description>
+    </item>
+    
+  </channel>
+</rss>
