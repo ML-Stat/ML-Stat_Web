@@ -9,14 +9,13 @@ The 1st International Conference on Machine Learning and Statistics (**MLSTAT**)
 - **Date**: <span style="font-size:150%">August 25-26, 2023</span>. 
 - **Location**: <span style="font-size:150%">Minhang Campus, East China Normal University, Shanghai, China</span>.
 - **Aim**: The Machine Learning and Statistics Conference (MLSTAT) is an academic conference that serves to facilitate scholarly exchange among domestic and international scholars in the fields of machine learning and statistics. Through fostering an academic culture that promotes the mutual development of machine learning and statistics, the conference aims to advance foundational disciplines such as data science and artificial intelligence, and thereby contribute to the development of related digital economic industries.
-<<<<<<< HEAD
-<<<<<<< HEAD
 - **Conference Orgnizers**:\
   Machine Learning Branch of the Chinese Association for Applied Statistics\
   School of Statistics, East China Normal University\
   Academy of Statistical and Interdisciplinary Sciences, East China Normal University\
   Key Laboratory of Advanced Theory and Application in Statistics and Data Science - MOE\
   Statistical Application and Theoretical Research Overseas Expertise Introduction Center for Discipline Innovation
+
 ________________________________________
 
 <!--
