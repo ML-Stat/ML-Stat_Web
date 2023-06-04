@@ -116,6 +116,7 @@ ________________________________________
     padding-bottom: 20px; 
     padding-top: 20px;
     display: flex; 
+    text-align: justify;
 }
 
 .left {
