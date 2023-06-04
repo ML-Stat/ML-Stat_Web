@@ -14,7 +14,7 @@ The 1st International Conference on Machine Learning and Statistics (**MLSTAT**)
   School of Statistics, East China Normal University\
   Academy of Statistical and Interdisciplinary Sciences, East China Normal University\
   Key Laboratory of Advanced Theory and Application in Statistics and Data Science - MOE\
-  Statistical Application and Theoretical Research Overseas Expertise Introduction Center for Discipline Innovation\
+  Statistical Application and Theoretical Research Overseas Expertise Introduction Center for Discipline Innovation
 ________________________________________
 
 <!--
