@@ -98,7 +98,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/ziqi.png" class="avatar" />
+        <img src="/images/ziqi.jpeg" class="avatar" />
         <div class="font-small font-bold">
             <a>
                 Ziqi Chen
