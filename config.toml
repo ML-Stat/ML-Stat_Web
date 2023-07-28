@@ -16,9 +16,9 @@ unsafe = true
 	# author = "Bruce Eckel"
 	description = "A Self-Organizing Open-Spaces Unconference"
 
-	logo = "/images/logo-color-small.png"
+	logo = "/images/hsdA.png"
 	favicon = "images/logo-color-small-2.png"
-	banner_image = "/images/mlstat.jpg"
+	banner_image = "/images/hsdC.jpg"
 
 	permalink = "#"
 
@@ -34,8 +34,8 @@ unsafe = true
   	accent  = "red"
 
   [params.font]
-  	text = "Ubuntu"
-  	code = "Ubuntu Mono"
+  	text = "sans-serif"
+  	code = "sans-serif Mono"
 
 
 [social]
