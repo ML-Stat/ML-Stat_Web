@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning in the Era of Large-scale Models"
+title: "Session 1: Deep Learning in the Era of Large-scale Models"
 summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
 tags: "s1-3"
 ---

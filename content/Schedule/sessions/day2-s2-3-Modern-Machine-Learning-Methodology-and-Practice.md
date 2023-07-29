@@ -1,5 +1,5 @@
 ---
-title: "Modern Machine Learning Methodology and Practice"
+title: "Session 2: Modern Machine Learning Methodology and Practice"
 summary: "3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023"
 tags: "s2-3"
 ---

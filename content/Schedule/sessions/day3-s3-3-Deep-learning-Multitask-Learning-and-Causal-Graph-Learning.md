@@ -1,5 +1,5 @@
 ---
-title: "Deep learning, Multitask Learning and Causal Graph Learning"
+title: "Session 3: Deep learning, Multitask Learning and Causal Graph Learning"
 summary: "10:30 a.m. — 12:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s3-3"
 ---

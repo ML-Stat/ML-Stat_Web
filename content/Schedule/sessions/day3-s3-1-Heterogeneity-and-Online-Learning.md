@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneity and Online Learning"
+title: "Session 3: Heterogeneity and Online Learning"
 summary: "10:30 a.m. — 12:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s3-1"
 ---

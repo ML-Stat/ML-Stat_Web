@@ -1,5 +1,5 @@
 ---
-title: "Trustworthy Machine Learning"
+title: "Session 2: Trustworthy Machine Learning"
 summary: "3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023"
 tags: "s2-1"
 ---
