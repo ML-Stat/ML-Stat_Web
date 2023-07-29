@@ -6,24 +6,6 @@
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/committee/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s2-4-biostatistics-meets-machine-learning/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s5-1-causal-inference-and-missing-data-analysis/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s4-2-complex-data-analysis/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s1-3-deep-learning-in-the-era-of-large-scale-models/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s3-3-deep-learning-multitask-learning-and-causal-graph-learning/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s3-2-efficiency-and-safety-in-machine-learning/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s3-1-heterogeneity-and-online-learning/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s1-4-high-dimensional-statistics-and-graph-neural-networks/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s4-3-invariability-and-adaptivity/</loc>
-  </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-k1-keynote1/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-k2-keynote2/</loc>
@@ -32,26 +14,44 @@
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-k4-keynote4/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s4-1-machine-learning-for-interpretability/</loc>
-  </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s2-3-modern-machine-learning-methodology-and-practice/</loc>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s5-2-optimizing-simulation-and-machine-learning/</loc>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s1-3-deep-learning-in-the-era-of-large-scale-models/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s1-4-high-dimensional-statistics-and-graph-neural-networks/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s1-2-recent-advances-in-high-dimensional-and-large-scale-inference/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s1-1-recent-advances-in-statistical-computation/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/</loc>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s2-4-biostatistics-meets-machine-learning/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s2-3-modern-machine-learning-methodology-and-practice/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s2-2-statistical-foundations-for-modern-machine-learning/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s5-3-statistical-machine-learning-in-high-dimensions/</loc>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s2-1-trustworthyml/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s3-3-deep-learning-multitask-learning-and-causal-graph-learning/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s3-2-efficiency-and-safety-in-machine-learning/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s3-1-heterogeneity-and-online-learning/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s4-2-complex-data-analysis/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s4-3-invariability-and-adaptivity/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s4-1-machine-learning-for-interpretability/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s4-4-statistical-prediction-and-machine-learning/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day2-s2-1-trustworthyml/</loc>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s5-1-causal-inference-and-missing-data-analysis/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s5-2-optimizing-simulation-and-machine-learning/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/day3-s5-3-statistical-machine-learning-in-high-dimensions/</loc>
   </url>
 </urlset>
