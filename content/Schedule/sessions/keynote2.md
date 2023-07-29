@@ -1,7 +1,7 @@
 ---
-title: "Keynote Speech 1"
-summary: "9:30 a.m. — 10:15 a.m., Friday, Aug 25, 2023"
-tags: "k1"
+title: "Keynote Speech 2"
+summary: "10:30 a.m. — 11:15 a.m., Friday, Aug 25, 2023"
+tags: "k2"
 ---
 
 Friday, Aug 25, 2023
@@ -17,7 +17,7 @@ Friday, Aug 25, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/shizhong.png" />
-    Time: 9:30 a.m. — 10:15 a.m.
+    Time: 10:30 a.m. — 11:15 a.m.
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
@@ -37,7 +37,7 @@ ________________________________________
     <div class="left">
         <img src="/images/person.jpeg" class="avatar" />
         <div class="font-small font-bold">
-            Jian Sun
+            Liu Hong
         </div>
     </div>
     <div class="right">
