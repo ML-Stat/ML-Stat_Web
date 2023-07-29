@@ -7,21 +7,192 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ml-stat.github.io/MLSTAT2023/schedule/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interpretable Learning</title>
-      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/interpretablelearning/</link>
+      <title>Biostatistics Meets Machine Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/biostatistics-meets-machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/interpretablelearning/</guid>
-      <description>TBA</description>
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/biostatistics-meets-machine-learning/</guid>
+      <description>3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023</description>
     </item>
     
     <item>
-      <title>Kenote Speech</title>
+      <title>Causal Inference and Missing Data Analysis</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/causal-inference-and-missing-data-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/causal-inference-and-missing-data-analysis/</guid>
+      <description>3:30 p.m. — 5:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Complex Data Analysis</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/complex-data-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/complex-data-analysis/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in the Era of Large-scale Models</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/deep-learning-in-the-era-of-large-scale-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/deep-learning-in-the-era-of-large-scale-models/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Deep learning, Multitask Learning and Causal Graph Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/deep-learning-multitask-learning-and-causal-graph-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/deep-learning-multitask-learning-and-causal-graph-learning/</guid>
+      <description>10:30 a.m. — 12:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Efficiency and Safety in Machine Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/efficiency-and-safety-in-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/efficiency-and-safety-in-machine-learning/</guid>
+      <description>10:30 a.m. — 12:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity and Online Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/heterogeneity-and-online-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/heterogeneity-and-online-learning/</guid>
+      <description>10:30 a.m. — 12:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>High-dimensional Statistics and Graph Neural Networks</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/high-dimensional-statistics-and-graph-neural-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/high-dimensional-statistics-and-graph-neural-networks/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Invariability and Adaptivity</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/invariability-and-adaptivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/invariability-and-adaptivity/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Keynote Speech 1</title>
       <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote1/</guid>
-      <description>8:30 pm — 9:30 pm, Friday, Aug 25, 2023</description>
+      <description>9:30 a.m. — 10:15 a.m., Friday, Aug 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Keynote Speech 2</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote2/</guid>
+      <description>10:30 a.m. — 11:15 a.m., Friday, Aug 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Keynote Speech 3</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote3/</guid>
+      <description>8:30 a.m. — 9:15 a.m., Saturday, Aug 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Keynote Speech 4</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote4/</guid>
+      <description>9:30 a.m. — 910:15 a.m., Saturday, Aug 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Interpretability</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/interpretablelearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/interpretablelearning/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Modern Machine Learning Methodology and Practice</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/modern-machine-learning-methodology-and-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/modern-machine-learning-methodology-and-practice/</guid>
+      <description>3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Simulation and Machine Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/optimizing-simulation-and-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/optimizing-simulation-and-machine-learning/</guid>
+      <description>3:30 p.m. — 5:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in High-dimensional and Large-scale Inference</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/recent-advances-in-high-dimensional-and-large-scale-inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/recent-advances-in-high-dimensional-and-large-scale-inference/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Statistical Computation</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/recent-advances-in-statistical-computation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/recent-advances-in-statistical-computation/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Statistical Foundations for Modern Machine Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/statistical-foundations-for-modern-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/statistical-foundations-for-modern-machine-learning/</guid>
+      <description>3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Statistical Machine Learning in High Dimensions</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/statistical-machine-learning-in-high-dimensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/statistical-machine-learning-in-high-dimensions/</guid>
+      <description>3:30 p.m. — 5:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Statistical Prediction and Machine Learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/statistical-prediction-and-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/statistical-prediction-and-machine-learning/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023</description>
     </item>
     
     <item>
@@ -30,7 +201,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/trustworthyml/</guid>
-      <description>1:30 pm — 2:30 pm, Friday, Aug 25, 2023</description>
+      <description>3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023</description>
     </item>
     
   </channel>
