@@ -1,7 +1,8 @@
 ---
-title: "Session 4: Invariability and Adaptivity"
+title: "Invariability and Adaptivity"
 summary: "1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s4-3"
+weight: 17
 ---
 
 Saturday, Aug. 26, 2023

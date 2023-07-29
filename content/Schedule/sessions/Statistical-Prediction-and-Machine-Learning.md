@@ -1,7 +1,8 @@
 ---
-title: "Session 4: Statistical Prediction and Machine Learning"
+title: "Statistical Prediction and Machine Learning"
 summary: "1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s4-4"
+weight: 19
 ---
 
 Saturday, Aug. 26, 2023

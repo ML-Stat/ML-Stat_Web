@@ -1,7 +1,8 @@
 ---
-title: "Session 1: Recent Advances in Statistical Computation"
+title: "Recent Advances in Statistical Computation"
 summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
 tags: "s1-1"
+weight: 8
 ---
 
 Friday, Aug. 25, 2023

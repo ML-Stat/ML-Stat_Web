@@ -1,7 +1,8 @@
 ---
-title: "Session 3: Efficiency and Safety in Machine Learning"
+title: "Efficiency and Safety in Machine Learning"
 summary: "10:30 a.m. — 12:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s3-2"
+weight: 14
 ---
 
 Saturday, Aug. 26, 2023

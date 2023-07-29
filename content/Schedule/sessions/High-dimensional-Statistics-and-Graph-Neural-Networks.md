@@ -1,7 +1,8 @@
 ---
-title: "Session 1: High-dimensional Statistics and Graph Neural Networks"
+title: "High-dimensional Statistics and Graph Neural Networks"
 summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
 tags: "s1-4"
+weight: 6
 ---
 
 Friday, Aug. 25, 2023

@@ -1,7 +1,8 @@
 ---
-title: "Session 4: Complex Data Analysis"
+title: "Complex Data Analysis"
 summary: "1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s4-2"
+weight: 16
 ---
 
 Saturday, Aug. 26, 2023

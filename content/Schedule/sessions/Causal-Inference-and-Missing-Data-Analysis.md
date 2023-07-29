@@ -1,7 +1,8 @@
 ---
-title: "Session 5: Causal Inference and Missing Data Analysis"
+title: "Causal Inference and Missing Data Analysis"
 summary: "3:30 p.m. — 5:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s5-1"
+weight: 20
 ---
 
 Saturday, Aug. 26, 2023

@@ -1,7 +1,8 @@
 ---
-title: "Session 2: Biostatistics Meets Machine Learning"
+title: "Biostatistics Meets Machine Learning"
 summary: "3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023"
 tags: "s2-4"
+weight: 9
 ---
 
 Friday, Aug. 25, 2023
