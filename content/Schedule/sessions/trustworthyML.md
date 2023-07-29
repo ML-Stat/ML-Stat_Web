@@ -98,7 +98,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/pengfei.jpeg" class="avatar" />
+        <img src="/images/pengfei.png" class="avatar" />
         <div class="font-small font-bold">
             <a>
                 Pengfei Liu
@@ -108,11 +108,11 @@ ________________________________________
     <div class="right">
         <div class="font-small">
             <u>Title:</u> &nbsp;
-            TBA
+            生成式人工智能模型的安全可靠的讨论
         </div>
         <div class="content font-small">
             <u>Abstract:</u> &nbsp;
-            TBA
+            以自然语言处理中预训练语言模型为核心的生成式人工智能已经逐渐从学术论文走入到产品，例如Jasper、ChatGPT等，并且其在应用层的潜力还在不断被人挖掘。生成式人工智能（AI）使复杂应用的开发成为可能，这些应用以预先训练好的大型模型为骨架，通过适当的引导就可以生成高质量的文本、图像和其他输出。然而，评估这些生成系统（例如评估ChatGPT生成文本的质量）是一个可能比生成本身更艰巨的任务，生成模型的结果往往难以控制，比如生成有攻击性、有偏见、事实错误的内容，如何自动地从多方面定量评估模型的可靠性成为一个关键的问题。本报告将会讨论如何评估并建立一个安全可靠的大模型。
         </div>
     </div>
 </div>
