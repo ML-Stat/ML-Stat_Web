@@ -1,6 +1,6 @@
 ---
 title: "Keynote Speech 4"
-summary: "9:30 a.m. — 910:15 a.m., Saturday, Aug 26, 2023"
+summary: "9:30 a.m. — 10:15 a.m., Saturday, Aug 26, 2023"
 tags: "k4"
 weight: 4
 ---
