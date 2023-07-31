@@ -2,7 +2,7 @@
 title: "Statistical Foundations for Modern Machine Learning"
 summary: "3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023"
 tags: "s2-2"
-weight: 11
+weight: 110
 ---
 
 Friday, Aug. 25, 2023

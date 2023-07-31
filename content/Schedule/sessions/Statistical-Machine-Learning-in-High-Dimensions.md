@@ -2,7 +2,7 @@
 title: "Statistical Machine Learning in High Dimensions"
 summary: "3:30 p.m. — 5:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s5-3"
-weight: 22
+weight: 220
 ---
 
 Saturday, Aug. 26, 2023

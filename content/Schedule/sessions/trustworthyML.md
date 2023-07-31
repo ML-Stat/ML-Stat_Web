@@ -2,7 +2,7 @@
 title: "Trustworthy Machine Learning"
 summary: "3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023"
 tags: "s2-1"
-weight: 12
+weight: 120
 ---
 
 Friday, Aug. 25, 2023
@@ -28,7 +28,7 @@ Friday, Aug. 25, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
-    Session Chair: <a href="http://xiangyuchang.github.io/" target="_blank">Xiangyu Chang, Southwestern University of Finance and Economics</a>
+    Session Chair: <a href="http://xiangyuchang.github.io/" target="_blank">Xiangyu Chang, Xi'an Jiaotong University</a>
 </div>
 
 

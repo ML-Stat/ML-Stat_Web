@@ -2,7 +2,7 @@
 title: "Invariability and Adaptivity"
 summary: "1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s4-3"
-weight: 17
+weight: 170
 ---
 
 Saturday, Aug. 26, 2023

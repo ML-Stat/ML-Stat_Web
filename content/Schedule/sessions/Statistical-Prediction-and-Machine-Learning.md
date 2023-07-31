@@ -2,7 +2,7 @@
 title: "Statistical Prediction and Machine Learning"
 summary: "1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s4-4"
-weight: 19
+weight: 190
 ---
 
 Saturday, Aug. 26, 2023
@@ -28,7 +28,7 @@ Saturday, Aug. 26, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
-    Session Chair: Deyu Meng, Xian Jiaotong University
+    Session Chair: Deyu Meng, Xi'an Jiaotong University
 </div>
 
 
