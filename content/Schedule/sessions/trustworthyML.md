@@ -28,7 +28,7 @@ Friday, Aug. 25, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
-    Session Chair: <a href="http://xiangyuchang.github.io/" target="_blank">Xiangyu Chang, Southwestern University of Finance and Economics</a>
+    Session Chair: <a href="http://xiangyuchang.github.io/" target="_blank">Xiangyu Chang, Xi'an Jiaotong University</a>
 </div>
 
 

@@ -28,7 +28,7 @@ Saturday, Aug. 26, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
-    Session Chair: Deyu Meng, Xian Jiaotong University
+    Session Chair: Deyu Meng, Xi'an Jiaotong University
 </div>
 
 
