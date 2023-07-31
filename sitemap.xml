@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/tutorial/</loc>
+  </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote1/</loc>
+  </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/overview/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote2/</loc>
   </url><url>
@@ -22,8 +26,6 @@
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/modern-machine-learning-methodology-and-practice/</loc>
   </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/overview/</loc>
-  </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/statistical-foundations-for-modern-machine-learning/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/trustworthyml/</loc>
@@ -36,6 +38,8 @@
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/complex-data-analysis/</loc>
   </url><url>
+    <loc>https://ml-stat.github.io/MLSTAT2023/committee/</loc>
+  </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/invariability-and-adaptivity/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/machine-learning-for-interpretability/</loc>
@@ -47,8 +51,6 @@
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/optimizing-simulation-and-machine-learning/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/statistical-machine-learning-in-high-dimensions/</loc>
-  </url><url>
-    <loc>https://ml-stat.github.io/MLSTAT2023/committee/</loc>
   </url><url>
     <loc>https://ml-stat.github.io/MLSTAT2023/</loc>
   </url><url>
