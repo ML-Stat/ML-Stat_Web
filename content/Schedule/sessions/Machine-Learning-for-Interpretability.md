@@ -2,7 +2,7 @@
 title: "Machine Learning for Interpretability"
 summary: "1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s4-1"
-weight: 18
+weight: 180
 ---
 
 Saturday, Aug. 26, 2023

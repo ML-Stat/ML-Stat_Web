@@ -2,7 +2,7 @@
 title: "High-dimensional Statistics and Graph Neural Networks"
 summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
 tags: "s1-4"
-weight: 6
+weight: 60
 ---
 
 Friday, Aug. 25, 2023

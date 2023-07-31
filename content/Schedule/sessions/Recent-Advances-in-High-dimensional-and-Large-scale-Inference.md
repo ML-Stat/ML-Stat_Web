@@ -2,7 +2,7 @@
 title: "Recent Advances in High-dimensional and Large-scale Inference"
 summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
 tags: "s1-2"
-weight: 7
+weight: 70
 ---
 
 Friday, Aug. 25, 2023

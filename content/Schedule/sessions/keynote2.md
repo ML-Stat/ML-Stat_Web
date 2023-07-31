@@ -1,11 +1,11 @@
 ---
 title: "Keynote Speech 2"
-summary: "10:30 a.m. — 11:15 a.m., Friday, Aug 25, 2023"
+summary: "10:30 a.m. — 11:15 a.m., Friday, Aug. 25, 2023"
 tags: "k2"
-weight: 2
+weight: 20
 ---
 
-Friday, Aug 25, 2023
+Friday, Aug. 25, 2023
 ------
 
 

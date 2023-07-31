@@ -2,7 +2,7 @@
 title: "Deep Learning in the Era of Large-scale Models"
 summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
 tags: "s1-3"
-weight: 5
+weight: 50
 ---
 
 Friday, Aug. 25, 2023

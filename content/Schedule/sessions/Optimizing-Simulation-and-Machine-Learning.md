@@ -2,7 +2,7 @@
 title: "Optimizing Simulation and Machine Learning"
 summary: "3:30 p.m. — 5:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s5-2"
-weight: 21
+weight: 210
 ---
 
 Saturday, Aug. 26, 2023

@@ -1,11 +1,11 @@
 ---
 title: "Keynote Speech 3"
-summary: "8:30 a.m. — 9:15 a.m., Saturday, Aug 26, 2023"
+summary: "8:30 a.m. — 9:15 a.m., Saturday, Aug. 26, 2023"
 tags: "k3"
-weight: 3
+weight: 30
 ---
 
-Saturday, Aug 26, 2023
+Saturday, Aug. 26, 2023
 ------
 
 
