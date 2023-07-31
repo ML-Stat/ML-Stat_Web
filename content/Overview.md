@@ -30,4 +30,15 @@ ________________________________________
 
 <hr style="border: 0; border-top: 5px solid;">
 
-- **TBA**
+To register the conference, please scan the QR code below and fill out the questionnaire .
+
+<center><img src="/images/register_qrcode.jpg" alt="QR Code for Registration" height="200"></center>
+
+<!-- <style>
+
+.qrcode {
+  /* border: 1px solid #ddd; */
+  /* border-radius: 4px; */
+  padding: 2px;
+  width: 200px;
+} -->
