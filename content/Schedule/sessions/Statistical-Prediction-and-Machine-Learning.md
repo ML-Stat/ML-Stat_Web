@@ -34,89 +34,85 @@ Saturday, Aug. 26, 2023
 
 ________________________________________
 
-<div class="row">
-    <div class="left">
-        <img src="/images/zhiji.png" class="avatar" />
-        <div class="font-small font-bold">
-            <a>
-                Zhiji Yang
-            </a>
+<html>
+<head>
+    <title>Customizing Personal Large-Scale Language Model</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .row {
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            max-width: 800px;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 10px;
+        }
+        .name-bar {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .title {
+            font-size: 20px;
+            text-decoration: underline;
+            margin-bottom: 10px;
+        }
+        .abstract {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="row">
+        <div class="container">
+            <div class="name-bar">Zhiji Yang</div>
+            <div class="title">Title: Deep Multi-Class Support Vector Network with Probabilistic Calibration</div>
+            <div class="abstract">
+                <strong>Abstract:</strong> The traditional support vector machine (SVM) is a well-known supervised learning method for binary classification, especially on small sample data. However, SVM has some limitations in prediction accuracy and adaptability for complex data such as sequential text data and structural image data. When solving multi-classification problem, traditional SVM needs to apply one-vs-one or one-vs-rest strategy. The computational cost of these strategies grows exponentially as the number of data categories increases. To improve the classification accuracy and convenience of the original SVM for multi-classification task, we propose a deep multi-class support vector network (DMSVN). DMSVN can take advantage of the excellent feature extraction methods of neural networks for high dimensional data. It also avoids generating binary classifiers multiple times to determine the sample class in the multi-classification problem. DMSVN has better interpretation than traditional neural networks. Besides, an auxiliary convolutional neural network is constructed to implement probabilistic calibration, which allows the model prediction to be closer to the true value.
+            </div>
         </div>
     </div>
-    <div class="right">
-        <div class="font-small">
-            <u>Title:</u> &nbsp;
-            Deep Multi-Class Support Vector Network with Probabilistic Calibration
-        </div>
-        <div class="content font-small">
-            <u>Abstract:</u> &nbsp;
-            The traditional support vector machine (SVM) is a well-known supervised learning method for binary classification, especially on small sample data. However, SVM has some limitations in prediction accuracy and adaptability for complex data such as sequential text data and structural image data. When solving multi-classification problem, traditional SVM needs to apply one-vs-one or one-vs-rest strategy. The computational cost of these strategies grows exponentially as the number of data categories increases. To improve the classification accuracy and convenience of the original SVM for multi-classification task, we propose a deep multi-class support vector network (DMSVN). DMSVN can take advantage of the excellent feature extraction methods of neural networks for high dimensional data. It also avoids generating binary classifiers multiple times to determine the sample class in the multi-classification problem. DMSVN has better interpretation than traditional neural networks. Besides, an auxiliary convolutional neural network is constructed to implement probabilistic calibration, which allows the model prediction to be closer to the true value.
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="left">
-        <img src="/images/xianli.png" class="avatar" />
-        <div class="font-small font-bold">
-            <a>
-                Xianli Pan
-            </a>
+    <div class="row">
+        <div class="container">
+            <div class="name-bar">Xianli Pan</div>
+            <div class="title">Title: 针对稀疏模型的安全筛选算法的相关研究</div>
+            <div class="abstract">
+                <strong>Abstract:</strong> 安全筛选系列算法利用稀疏优化模型最优解中存在大量0分量的特点，在求解模型前准确找出解中0分量位置，并由此降低数据规模，加速模型求解运算。我们主要针对当前安全筛选算法在筛选有效性、安全性上存在的问题，提出若干改进方案，进行误差纠正以及进一步提高模型求解大规模问题的效率。
+            </div>
         </div>
     </div>
-    <div class="right">
-        <div class="font-small">
-            <u>Title:</u> &nbsp;
-            针对稀疏模型的安全筛选算法的相关研究
-        </div>
-        <div class="content font-small">
-            <u>Abstract:</u> &nbsp;
-            安全筛选系列算法利用稀疏优化模型最优解中存在大量0分量的特点，在求解模型前准确找出解中0分量位置，并由此降低数据规模，加速模型求解运算。我们主要针对当前安全筛选算法在筛选有效性、安全性上存在的问题，提出若干改进方案，进行误差纠正以及进一步提高模型求解大规模问题的效率。
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="left">
-        <img src="/images/xinyu.png" class="avatar" />
-        <div class="font-small font-bold">
-            <a>
-                Xinyu Chen
-            </a>
+    <div class="row">
+        <div class="container">
+            <div class="name-bar">Xinyu Chen</div>
+            <div class="title">Title: Optimal Weighted Random Forests</div>
+            <div class="abstract">
+                <strong>Abstract:</strong> The random forest (RF) algorithm has become a very popular prediction method for its great flexibility and promising accuracy. In RF, it is conventional to put equal weights on all the base learners (trees) to aggregate their predictions. However, the predictive performances of different trees within the forest can be very different due to the randomization of the embedded bootstrap sampling and feature selection. In this paper, we focus on RF for regression and propose two optimal weighting algorithms, namely the 1 Step Optimal Weighted RF (1step-WRFopt) and 2 Steps Optimal Weighted RF (2steps-WRFopt), that combine the base learners through the weights determined by weight choice criteria. Under some regularity conditions, we show that these algorithms are asymptotically optimal in the sense that the resulting squared loss and risk are asymptotically identical to those of the infeasible but best possible model averaging estimator. Numerical studies conducted on real-world data sets indicate that these algorithms outperform the equal-weight forest and two other weighted RFs proposed in existing literature in most cases.
+            </div>
         </div>
     </div>
-    <div class="right">
-        <div class="font-small">
-            <u>Title:</u> &nbsp;
-            Optimal Weighted Random Forests
-        </div>
-        <div class="content font-small">
-            <u>Abstract:</u> &nbsp;
-            The random forest (RF) algorithm has become a very popular prediction method for its great flexibility and promising accuracy. In RF, it is conventional to put equal weights on all the base learners (trees) to aggregate their predictions. However, the predictive performances of different trees within the forest can be very different due to the randomization of the embedded bootstrap sampling and feature selection. In this paper, we focus on RF for regression and propose two optimal weighting algorithms, namely the 1 Step Optimal Weighted RF (1step-WRFopt) and 2 Steps Optimal Weighted RF (2steps-WRFopt), that combine the base learners through the weights determined by weight choice criteria. Under some regularity conditions, we show that these algorithms are asymptotically optimal in the sense that the resulting squared loss and risk are asymptotically identical to those of the infeasible but best possible model averaging estimator. Numerical studies conducted on real-world data sets indicate that these algorithms outperform the equal-weight forest and two other weighted RFs proposed in existing literature in most cases.
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="left">
-        <img src="/images/shijin.png" class="avatar" />
-        <div class="font-small font-bold">
-            <a>
-                Shijin Gong
-            </a>
+    <div class="row">
+        <div class="container">
+            <div class="name-bar">Shijin Gong</div>
+            <div class="title">Title: Towards Optimal Neural Networks: The Role of Sample Splitting in Hyperparameter Selection</div>
+            <div class="abstract">
+                <strong>Abstract:</strong> While artificial neural networks have demonstrated exceptional practical success in a variety of domains, investigations into their theoretical characteristics, such as their approximation power, statistical properties, and generalization performance, have made significant strides. In this paper, we construct a novel theory for understanding the effectiveness of neural networks by discovering the mystery underlying a common practice during neural network model construction: sample splitting. Our theory demonstrates that, the optimal hyperparameters derived from sample splitting can enable a neural network model that asymptotically minimizes the prediction risk. We conduct extensive experiments across different application scenarios and network architectures, and the results manifest our theory's effectiveness.
+            </div>
         </div>
     </div>
-    <div class="right">
-        <div class="font-small">
-            <u>Title:</u> &nbsp;
-           Towards Optimal Neural Networks: The Role of Sample Splitting in Hyperparameter Selection
-        </div>
-        <div class="content font-small">
-            <u>Abstract:</u> &nbsp;
-            While artificial neural networks have demonstrated exceptional practical success in a variety of domains, investigations into their theoretical characteristics, such as their approximation power, statistical properties, and generalization performance, have made significant strides. In this paper, we construct a novel theory for understanding the effectiveness of neural networks by discovering the mystery underlying a common practice during neural network model construction: sample splitting. Our theory demonstrates that, the optimal hyperparameters derived from sample splitting can enable a neural network model that asymptotically minimizes the prediction risk. We conduct extensive experiments across different application scenarios and network architectures, and the results manifest our theory's effectiveness.
-        </div>
-    </div>
-</div>
+</body>
+</html>
 
 <style>
 
