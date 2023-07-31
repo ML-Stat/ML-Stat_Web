@@ -63,7 +63,7 @@ ________________________________________
     <div class="right">
         <div class="font-small">
             <b>Title:</b>&nbsp;
-            Theoretical study on deep learning: approximation, generalization, optimization, representation and generation
+            Theoretical Study on Deep Learning: Approximation, Generalization, Optimization, Representation and Generation
         </div>
         <div class="content font-small">
             <b>Abstract:</b> &nbsp;
