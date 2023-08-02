@@ -22,7 +22,7 @@ Saturday, Aug. 26, 2023
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    location: 华东师范大学中北校区 文史楼211
+    location: 华东师范大学普陀校区 文史楼211
 </div>
 
 
