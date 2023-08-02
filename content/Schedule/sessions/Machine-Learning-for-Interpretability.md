@@ -1,11 +1,11 @@
 ---
 title: "Machine Learning for Interpretability"
-summary: "1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023"
-tags: "s4-1"
-weight: 180
+summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
+tags: "s1-3"
+weight: 50
 ---
 
-Saturday, Aug. 26, 2023
+Friday, Aug. 25, 2023
 ------
 
 
@@ -22,7 +22,7 @@ Saturday, Aug. 26, 2023
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    location: 华东师范大学普陀校区 文史楼201
+    location: 华东师范大学普陀校区 文史楼211
 </div>
 
 
