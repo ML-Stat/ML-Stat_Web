@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning in the Era of Large-scale Models"
+title: "Deep Learning in the Era of Large-Scale Models"
 summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
 tags: "s1-3"
 weight: 50
@@ -13,7 +13,7 @@ Friday, Aug. 25, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/yanjiang.png" />
-    Session: <span class="font-bold" style="font-size:120%">Deep Learning in the Era of Large-scale Models</span>
+    Session: <span class="font-bold" style="font-size:120%">Deep Learning in the Era of Large-Scale Models</span>
 </div>
 
 <div class="tip">
