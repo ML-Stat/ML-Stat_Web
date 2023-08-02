@@ -63,6 +63,11 @@ ________________________________________
             color: #333;
             margin-bottom: 10px;
         }
+        .institute {
+            font-size: 18px;
+            color: #333;
+            margin-bottom: 10px;
+        }
         .title {
             font-size: 20px;
             text-decoration: underline;
@@ -78,6 +83,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">Jialiang Li</div>
+            <div class="institute">National University of Singapore</div>
             <div class="title">Title: A Network Approach to Compute Hypervolume under ROC Manifold for Multi-Class Biomarkers</div>
             <div class="abstract">
                 <strong>Abstract:</strong> Computation of hypervolume under ROC manifold (HUM) is necessary to evaluate biomarkers for their capability to discriminate among multiple disease types or diagnostic groups. However, the original definition of HUM involves multiple integration and thus a medical investigation for multi-class ROC analysis could suffer from huge computational cost when the formula is implemented naively. We introduce a novel graph-based approach to compute HUM efficiently in this paper. The computational method avoids the time-consuming multiple summation when sample size or the number of categories is large. We conduct extensive simulation studies to demonstrate the improvement of our method over existing R packages. We apply our method to two real biomedical data sets to illustrate its application.
@@ -87,6 +93,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">Xuening Zhu</div>
+            <div class="institute">Fudan University</div>
             <div class="title">Title: Distributed Estimation and Inference for Spatial Autoregression Model with Large Scale Networks</div>
             <div class="abstract">
                 <strong>Abstract:</strong> The rapid growth of online network platforms generates large-scale network data and it poses great challenges for statistical analysis using the spatial autoregression (SAR) model. In this work, we develop a novel distributed estimation and statistical inference framework for the SAR model on a distributed system. We first propose a distributed network least squares approximation (DNLSA) method. This enables us to obtain a one-step estimator by taking a weighted average of local estimators on each worker. Afterwards, a refined two-step estimation is designed to further reduce the estimation bias. For statistical inference, we utilize a random projection method to reduce the expensive communication cost. Theoretically, we show the consistency and asymptotic normality of both the one-step and two-step estimators. In addition, we provide theoretical guarantee of the distributed statistical inference procedure. The theoretical findings and computational advantages are validated by several numerical simulations implemented on the Spark system. Lastly, an experiment on the Yelp dataset further illustrates the usefulness of the proposed methodology.
@@ -96,6 +103,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">Xiaozhou Wang</div>
+            <div class="institute">East China Normal University</div>
             <div class="title">Title: Some Recent Progress in Quantile Regression Analysis</div>
             <div class="abstract">
                 <strong>Abstract:</strong> In this talk, we will introduce some research results on quantile regression and composite quantile regression models. The algorithms and theoretical properties are presented. Numerical studies are conducted to demonstrate the performance of the proposed methodologies.
@@ -105,6 +113,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">Fang Fang</div>
+            <div class="institute">East China Normal University</div>
             <div class="title">Title: Kolmogorov-Smirnov Learning</div>
             <div class="abstract">
                 <strong>Abstract:</strong> Kolmogorov-Smirnov (KS) statistic has been widely used in many areas to evaluate the performance of binary classification. However, almost no classification algorithm tries to optimize it directly at the training stage due to the computational and theoretical challenges brought by the special form of KS. In this talk, we will introduce our work about Kolmogorov-Smirnov learning which uses KS as the target function. Several methods will be discussed and their theoretical and empirical results will be presented.

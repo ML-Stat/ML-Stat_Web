@@ -63,6 +63,11 @@ ________________________________________
             color: #333;
             margin-bottom: 10px;
         }
+        .institute {
+            font-size: 18px;
+            color: #333;
+            margin-bottom: 10px;
+        }
         .title {
             font-size: 20px;
             text-decoration: underline;
@@ -77,16 +82,8 @@ ________________________________________
 <body>
     <div class="row">
         <div class="container">
-            <div class="name-bar">Weidong Liu</div>
-            <div class="title">Title: TBA</div>
-            <div class="abstract">
-                <strong>Abstract:</strong> TBA
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="container">
             <div class="name-bar">Yuling Jiao</div>
+            <div class="institute">Wuhan University</div>
             <div class="title">Title: Error Analysis on Pre-Training and Fine-Tuning Based on Deep Sufficient and Invariant Representation Learning</div>
             <div class="abstract">
                 <strong>Abstract:</strong> In this talk, I will discuss the effectiveness and error analysis of using pre-training and fine-tuning techniques based on deep sufficient and invariant representation learning. Our theory  may explain why fine-tuning works when the sample size is not so large.
@@ -96,6 +93,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">Cong Fang</div>
+            <div class="institute">Peking University</div>
             <div class="title">Title: Environment Invariant Linear Least Squares</div>
             <div class="abstract">
                 <strong>Abstract:</strong> We consider a multiple environment linear regression model, in which data from multiple experimental settings are collected. The joint distribution of the response variable and covariate may vary across different environments, yet the conditional expectation of y given the unknown set of important variables are invariant. Such a statistical model is related to the problem of endogeneity, transfer learning, and causal inference. We construct a novel environment invariant linear least squares (EILLS) objective function, a multiple-environment version of linear least squares that leverages the above conditional expectation invariance structure together with the heterogeneity among different environments to determine the true parameter. Our proposed method is applicable under the minimal structural assumption. We establish non-asymptotic error bounds on the estimation error for the EILLS estimator in the presence of endogenous variables. Moreover, we further show that the sparsity penalized EILLS estimator can achieve variable selection consistency in high-dimensional regimes. These non-asymptotic results demonstrate the sample efficiency of the EILLS estimator and its capability to circumvent the curse of endogeneity in an algorithmic manner without any prior structural knowledge.
@@ -105,9 +103,20 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">Wenjia Wang</div>
+            <div class="institute">Hong Kong University of Science and Technology (Guangzhou)</div>
             <div class="title">Title: Random Smoothing Regularization in Kernel Gradient Descent Learning</div>
             <div class="abstract">
                 <strong>Abstract:</strong> Random smoothing data augmentation is a unique form of regularization that can prevent overfitting by introducing noise to the input data, encouraging the model to learn more generalized features. Despite its success in various applications, there has been a lack of systematic study on the regularization ability of random smoothing. In this paper, we aim to bridge this gap by presenting a framework for random smoothing regularization that can adaptively and effectively learn a wide range of ground truth functions belonging to the classical Sobolev spaces. Specifically, we investigate two underlying function spaces: the Sobolev space of low intrinsic dimension, which includes the Sobolev space in $D$-dimensional Euclidean space or low-dimensional sub-manifolds as special cases, and the mixed smooth Sobolev space with a tensor structure. By using random smoothing regularization as novel convolution-based smoothing kernels, we can attain optimal convergence rates in these cases using a kernel gradient descent algorithm, either with early stopping or weight decay. It is noteworthy that our estimator can adapt to the structural assumptions of the underlying data and avoid the curse of dimensionality. This is achieved through various choices of injected noise distributions such as Gaussian, Laplace, or general polynomial noises, allowing for broad adaptation to the aforementioned structural assumptions of the underlying data. The convergence rate depends only on the effective dimension, which may be significantly smaller than the actual data dimension. We conduct numerical experiments on simulated data to validate our theoretical results.
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="container">
+            <div class="name-bar">Jianxin Yin</div>
+            <div class="institute">Renmin University of China</div>
+            <div class="title">Title: A minimax optimal approach to high-dimensional double sparse linear regression </div>
+            <div class="abstract">
+                <strong>Abstract:</strong> In this talk, we focus our attention on the high-dimensional double sparse linear regression, that is, a combination of element-wise and group-wise sparsity. To address this problem, we propose an IHT-style (iterative hard thresholding) procedure that dynamically updates the threshold at each step. We establish the matching upper and lower bounds for parameter estimation, showing the optimality of our proposal in the minimax sense. Coupled with a novel sparse group information criterion, we develop a fully adaptive procedure to handle unknown group sparsity and noise levels. We show that our adaptive procedure achieves optimal statistical accuracy with fast convergence. Finally, we demonstrate the superiority of our method by comparing it with several state-of-the-art algorithms on both synthetic and real-world datasets.
             </div>
         </div>
     </div>
