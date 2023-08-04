@@ -40,6 +40,9 @@ ________________________________________
         <div class="font-small font-bold">
             Yitong Yin
         </div>
+        <div class="institute">
+            Nanjing University
+        </div>
     </div>
     <div class="right">
         <div class="font-small">
@@ -100,5 +103,11 @@ ________________________________________
 
 .font-bold {
     font-weight: bold;
+}
+
+.institute {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
 }
 </style>

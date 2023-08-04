@@ -40,6 +40,9 @@ ________________________________________
         <div class="font-small font-bold">
             Zhihua Zhang
         </div>
+        <div class="institute">
+            Peking University
+        </div>
     </div>
     <div class="right">
         <div class="font-small">
@@ -58,6 +61,9 @@ ________________________________________
         <img src="/images/yuling.png" class="avatar" />
         <div class="font-small font-bold">
             Yuling Jiao
+        </div>
+        <div class="institute">
+            Wuhan University
         </div>
     </div>
     <div class="right">
@@ -120,5 +126,11 @@ ________________________________________
 
 .font-bold {
     font-weight: bold;
+}
+
+.institute {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
 }
 </style>
