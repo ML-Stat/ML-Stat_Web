@@ -38,7 +38,7 @@ ________________________________________
     <div class="left">
         <img src="/images/zhihua.png" class="avatar" />
         <div class="font-small font-bold">
-            Zhihua Zhou
+            Zhihua Zhang
         </div>
     </div>
     <div class="right">
