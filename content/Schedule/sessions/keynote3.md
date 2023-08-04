@@ -11,9 +11,9 @@ Saturday, Aug. 26, 2023
 
 <hr style="border: 0; border-top: 5px solid;">
 
-<div class="tip">
+<div class="hightip">
     <img class="icon" src="/icon/yanjiang.png" />
-    SessionKenote Speech: <span class="font-bold" style="font-size:120%">TBA</span>
+    SessionKenote Speech: <span class="font-bold" style="font-size:120%">Conformal Inference for Machine Learning with Blackbox Models：Uncertainty Quantification, Error Rate Control and Statistical Parity </span>
 </div>
 
 <div class="tip">
@@ -22,7 +22,7 @@ Saturday, Aug. 26, 2023
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    location: 华东师范大学普陀校区 逸夫楼报告厅
+    location: 华东师范大学普陀校区 大礼堂
 </div>
 
 
@@ -36,7 +36,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/person.jpeg" class="avatar" />
+        <img src="/images/wenguang.png" class="avatar" />
         <div class="font-small font-bold">
             Wenguang Sun
         </div>
@@ -47,17 +47,23 @@ ________________________________________
     <div class="right">
         <div class="font-small">
             <b>Title:</b>&nbsp;
-            TBA
+            Conformal Inference for Machine Learning with Blackbox Models：Uncertainty Quantification, Error Rate Control and Statistical Parity 
         </div>
         <div class="content font-small">
             <b>Abstract:</b> &nbsp;
-            TBA
+            Conformal inference provides rigorous theory for grounding complex machine learning methods without relying on strong assumptions or highly idealized models.  The primary challenge is to effectively integrate data from various sources and provide fair, robust, efficient, and reliable analytical tools for high-consequence decision-making scenarios. In the first part of this talk, I will present novel conformal inference methods for out-of-distribution testing that leverage side information from labeled outliers, which are often underutilized or even discarded by conventional conformal p-values. By blending inductive and transductive conformal inference strategies in a principled way, our methods are computationally efficient and can automatically leverage the most powerful model from a collection of one-class and binary classifiers. The second part of the talk will focus on controlling the false discovery rate in multiple testing using conformal p-values with a conditional calibration strategy. Finally, we will introduce a fair and highly efficient R-value method to correct algorithmic biases in large-scale inference, control the decision risk and ensure statistical parity.
         </div>
     </div>
 </div>
 
 
 <style>
+
+.hightip {
+    height: 95px;
+    line-height: 30px;
+    /* text-align: justify; */
+}
 
 .tip {
     height: 30px;
@@ -77,6 +83,7 @@ ________________________________________
     padding-bottom: 20px; 
     padding-top: 20px;
     display: flex; 
+    text-align: justify;
 }
 
 .left {

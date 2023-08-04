@@ -1,6 +1,6 @@
 ---
 title: "Keynote Speech 1"
-summary: "9:30 a.m. — 10:15 a.m., Friday, Aug. 25, 2023"
+summary: "9:50 a.m. — 10:35 a.m., Friday, Aug. 25, 2023"
 tags: "k1"
 weight: 10
 ---
@@ -13,16 +13,16 @@ Friday, Aug. 25, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/yanjiang.png" />
-    SessionKenote Speech: <span class="font-bold" style="font-size:120%">TBA</span>
+    SessionKenote Speech: <span class="font-bold" style="font-size:120%">Optimal Transport in Machine Learning</span>
 </div>
 
 <div class="tip">
     <img class="icon" src="/icon/shizhong.png" />
-    Time: 9:30 a.m. — 10:15 a.m.
+    Time: 9:50 a.m. — 10:35 a.m.
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    location: 华东师范大学普陀校区 逸夫楼报告厅
+    location: 华东师范大学普陀校区 大礼堂
 </div>
 
 
@@ -36,7 +36,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/person.jpeg" class="avatar" />
+        <img src="/images/sunjian.png" class="avatar" />
         <div class="font-small font-bold">
             Jian Sun
         </div>
@@ -47,11 +47,11 @@ ________________________________________
     <div class="right">
         <div class="font-small">
             <b>Title:</b>&nbsp;
-            TBA
+            Optimal Transport in Machine Learning
         </div>
         <div class="content font-small">
             <b>Abstract:</b> &nbsp;
-            TBA
+            Optimal transport was originally proposed to transport the mass between two probability measures with minimal cost, and has been widely investigated in theory, algorithm and applications. Optimal transport can be taken as a tool for learning distribution transform and designing deep generative model. In this talk, I will briefly introduce the optimal transport from the perspective of machine learning. Then I will present our research on the optimal transport with keypoints-guidance and its extension to the deep generative model, with applications to image synthesis and domain adaptation/generalization.
         </div>
     </div>
 </div>
@@ -77,6 +77,7 @@ ________________________________________
     padding-bottom: 20px; 
     padding-top: 20px;
     display: flex; 
+    text-align: justify;
 }
 
 .left {

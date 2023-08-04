@@ -13,7 +13,7 @@ Saturday, Aug. 26, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/yanjiang.png" />
-    SessionKenote Speech: <span class="font-bold" style="font-size:120%">TBA</span>
+    SessionKenote Speech: <span class="font-bold" style="font-size:120%">Theoretical Foundations of Computational Sampling</span>
 </div>
 
 <div class="tip">
@@ -22,7 +22,7 @@ Saturday, Aug. 26, 2023
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    location: 华东师范大学普陀校区 逸夫楼报告厅
+    location: 华东师范大学普陀校区 大礼堂
 </div>
 
 
@@ -36,7 +36,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/person.jpeg" class="avatar" />
+        <img src="/images/yitong.png" class="avatar" />
         <div class="font-small font-bold">
             Yitong Yin
         </div>
@@ -47,11 +47,11 @@ ________________________________________
     <div class="right">
         <div class="font-small">
             <b>Title:</b>&nbsp;
-            TBA
+            Theoretical Foundations of Computational Sampling
         </div>
         <div class="content font-small">
             <b>Abstract:</b> &nbsp;
-            TBA
+            蒙特卡罗法（Monte Carlo methods）是与计算机同一时期诞生的二十世纪最重要的科技产物之一。这一方法利用随机采样，因此能够高效计算原本传统确定性方法难以计算的量。它的发现拓展了人类高效计算的边界，深刻地影响了人们对计算本质的理解。在这一计算优越性的帮助下带来的科学新发现也塑造了人们今天对客观世界的认识。本报告将系统介绍报告人近年来在计算采样理论、以及现代蒙特卡罗算法的设计与分析等方面取得的系统性的重要进展，包括：概率图模型和约束满足解的采样的“计算相变”；马尔可夫链蒙特卡罗（MCMC）采样的并行化；采样的局部化算法的新范式。
         </div>
     </div>
 </div>
@@ -77,6 +77,7 @@ ________________________________________
     padding-bottom: 20px; 
     padding-top: 20px;
     display: flex; 
+    text-align: justify;
 }
 
 .left {
