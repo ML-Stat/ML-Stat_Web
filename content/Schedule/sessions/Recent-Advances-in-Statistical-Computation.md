@@ -1,5 +1,5 @@
 ---
-title: "Recent Advances in Statistical Computation"
+title: "Recent Advances in Statistical Computation and Machine Learning"
 summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2023"
 tags: "s1-1"
 weight: 80
@@ -13,7 +13,7 @@ Friday, Aug. 25, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/yanjiang.png" />
-    Session: <span class="font-bold" style="font-size:120%">Recent Advances in Statistical Computation</span>
+    Session: <span class="font-bold" style="font-size:120%">Recent Advances in Statistical Computation and Machine Learning</span>
 </div>
 
 <div class="tip">
