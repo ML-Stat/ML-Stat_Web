@@ -82,16 +82,6 @@ ________________________________________
 <body>
     <div class="row">
         <div class="container">
-            <div class="name-bar">Zhichao Jiang</div>
-            <div class="institute">Sun Yat-sen University</div>
-            <div class="title">Title: Policy Learning with Asymmetric Utilities</div>
-            <div class="abstract">
-                <strong>Abstract:</strong> Learning optimal policies from observed data requires a careful formulation of the utility function whose expected value is maximized across a population. Although researchers typically use utilities that depend on observed outcomes alone, in many settings the decision maker’s utility function is more properly characterized by the joint set of potential outcomes under all actions. For example, the Hippocratic principle to “do no harm” implies that the cost of causing death to a patient who would otherwise survive without treatment is greater than the cost of forgoing life-saving treatment. We consider optimal policy learning with asymmetric utility functions of this form. We show that asymmetric utilities lead to an unidentifiable social welfare function, and so we first partially identify it. Drawing on statistical decision theory, we then derive minimax decision rules by minimizing the maximum regret relative to alternative policies. We learn minimax decision rules from observed data by solving intermediate classification problems.
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="container">
             <div class="name-bar">Wei Li</div>
             <div class="institute">Renmin University of China</div>
             <div class="title">Title: Sparse Mediation Analysis with Unmeasured Mediator-Outcome Confounding</div>
