@@ -28,7 +28,7 @@ Friday, Aug. 25, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
-    Host: <a href="http://XXXXX" target="_blank">TBA</a>
+    Host: Shurong Zheng, Northeast Normal University
 </div>
 
 

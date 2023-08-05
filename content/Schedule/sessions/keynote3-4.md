@@ -28,7 +28,7 @@ Saturday, Aug. 26, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
-    Host: <a href="http://XXXXX" target="_blank">TBA</a>
+    Host: Wei Lin, Peking University
 </div>
 
 
