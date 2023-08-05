@@ -44,24 +44,6 @@ Date: August 24-26, 2023. Localtion: Putuo Campus, East China Normal University,
     </item>
     
     <item>
-      <title>Keynote Speech 3</title>
-      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote3/</guid>
-      <description>8:30 a.m. — 9:15 a.m., Saturday, Aug. 26, 2023</description>
-    </item>
-    
-    <item>
-      <title>Keynote Speech 4</title>
-      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote4/</guid>
-      <description>9:30 a.m. — 10:15 a.m., Saturday, Aug. 26, 2023</description>
-    </item>
-    
-    <item>
       <title>Machine Learning for Interpretability</title>
       <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/machine-learning-for-interpretability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,6 +113,24 @@ Date: August 24-26, 2023. Localtion: Putuo Campus, East China Normal University,
       
       <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/trustworthyml/</guid>
       <description>3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023</description>
+    </item>
+    
+    <item>
+      <title>Keynote Speech 3</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote3/</guid>
+      <description>8:30 a.m. — 9:15 a.m., Saturday, Aug. 26, 2023</description>
+    </item>
+    
+    <item>
+      <title>Keynote Speech 4</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/keynote4/</guid>
+      <description>9:30 a.m. — 10:15 a.m., Saturday, Aug. 26, 2023</description>
     </item>
     
     <item>
