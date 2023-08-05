@@ -2,7 +2,7 @@
 title: "Keynote Speech 4"
 summary: "9:30 a.m. — 10:15 a.m., Saturday, Aug. 26, 2023"
 tags: "k4"
-weight: 40
+weight: 128
 ---
 
 Saturday, Aug. 26, 2023
@@ -22,7 +22,7 @@ Saturday, Aug. 26, 2023
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    location: 华东师范大学普陀校区 大礼堂
+    location: 华东师范大学普陀校区 思羣堂
 </div>
 
 
