@@ -121,16 +121,6 @@ ________________________________________
             </div>
         </div>
     </div>
-    <div class="row">
-        <div class="container">
-            <div class="name-bar">Yang Zhou</div>
-            <div class="institute">Beijing Normal University</div>
-            <div class="title">Title: Covariance Test for Discretely Observed Functional Data  </div>
-            <div class="abstract">
-                <strong>Abstract:</strong> In this paper, covariance test is studied for discretely observed functional data with noise. A projection-based test statistic is constructed with growing number of estimated eigenfunctions, which has the asymptotic Chi-squared distribution facilitated by advancing the perturbation bounds of estimated eigenfunctions. The theoretic analysis reveals a connection among the permissible truncation level, the sampling frequency and the sample size. Some numerical studies are investigated.
-            </div>
-        </div>
-    </div>
 </body>
 </html>
 
