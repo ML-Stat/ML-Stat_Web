@@ -23,7 +23,7 @@ ________________________________________
     Wang Miao, Peking University\
     Yijie Peng, Peking University\
     Yixuan Qiu, Shanghai University of Finance and Economics\
-    Yan Xia, Fudan University\
+    Yin Xia, Fudan University\
     Pengkun Yang, Tsinghua University\
     Jianxin Yin, Renmin University of China\
     Zemin Zheng, University of Science and Technology of China\
