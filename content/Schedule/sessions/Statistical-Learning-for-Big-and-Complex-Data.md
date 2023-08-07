@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneity and Online Learning"
+title: "Statistical Learning for Big and Complex Data"
 summary: "10:30 a.m. — 12:00 p.m., Saturday, Aug. 26, 2023"
 tags: "s3-1"
 weight: 150
@@ -13,7 +13,7 @@ Saturday, Aug. 26, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/yanjiang.png" />
-    Session: <span class="font-bold" style="font-size:120%">Heterogeneity and Online Learning</span>
+    Session: <span class="font-bold" style="font-size:120%">Statistical Learning for Big and Complex Data</span>
 </div>
 
 <div class="tip">
