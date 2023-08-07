@@ -1,11 +1,11 @@
 ---
 title: "Deep learning, Multitask Learning and Causal Graph Learning"
-summary: "10:30 a.m. — 12:00 p.m., Saturday, Aug. 26, 2023"
-tags: "s3-3"
-weight: 130
+summary: "3:30 p.m. — 5:00 p.m., Friday, Aug. 25, 2023"
+tags: "s2-1"
+weight: 120
 ---
 
-Saturday, Aug. 26, 2023
+Friday, Aug. 25, 2023
 ------
 
 
@@ -18,11 +18,11 @@ Saturday, Aug. 26, 2023
 
 <div class="tip">
     <img class="icon" src="/icon/shizhong.png" />
-    Time: 10:30 a.m. — 12:00 p.m.
+    Time: 3:30 p.m. — 5:00 p.m.
 </div>
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    Location: 华东师范大学普陀校区 文史楼211
+    Location: 华东师范大学普陀校区 文史楼201
 </div>
 
 
