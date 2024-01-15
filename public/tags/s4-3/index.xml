@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>s4-3 on MLSTAT 2023</title>
+    <link>https://ml-stat.github.io/MLSTAT2023/tags/s4-3/</link>
+    <description>Recent content in s4-3 on MLSTAT 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://ml-stat.github.io/MLSTAT2023/tags/s4-3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invariability and Adaptivity</title>
+      <link>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/invariability-and-adaptivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2023/schedule/sessions/invariability-and-adaptivity/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Saturday, Aug. 26, 2023</description>
+    </item>
+  </channel>
+</rss>
