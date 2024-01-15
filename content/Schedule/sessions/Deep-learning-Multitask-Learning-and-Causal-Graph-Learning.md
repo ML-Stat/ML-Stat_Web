@@ -42,7 +42,7 @@ ________________________________________
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 0;
-            padding: 20px;
+            /* padding: 20px; */
             background-color: #f5f5f5;
         }
         .row {
@@ -126,10 +126,7 @@ ________________________________________
 
 <style>
 
-.tip {
-    height: 30px;
-    line-height: 30px;
-}
+.tip{}
 
 .icon {
     width: 15px;

@@ -87,10 +87,7 @@ ________________________________________
     /* text-align: justify; */
 }
 
-.tip {
-    height: 30px;
-    line-height: 30px;
-}
+.tip{}
 
 .icon {
     width: 15px;

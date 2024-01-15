@@ -51,10 +51,11 @@ ________________________________________
         </div>
         <div class="content font-small">
             <b>Abstract:</b> &nbsp;
-            Optimal transport was originally proposed to transport the mass between two probability measures with minimal cost, and has been widely investigated in theory, algorithm and applications. Optimal transport can be taken as a tool for learning distribution transform and designing deep generative model. In this talk, I will briefly introduce the optimal transport from the perspective of machine learning. Then I will present our research on the optimal transport with keypoints-guidance and its extension to the deep generative model, with applications to image synthesis and domain adaptation/generalization.
+            Optimal transport was originally proposed to transport the mass between two probability measures with minimal cost, and has been widely investigated in theory, algorithm and applications. Optimal transport can be taken as a tool for learning distribution transform and designing deep generative model. In this talk, I will briefly introduce the optimal transport from the perspective of machine learning. Then I will present our research on the optimal transport with keypoints-guidance and its extension to the deep generative model, with applications to image synthesis and domain adaptation and generalization.
         </div>
     </div>
 </div>
+
 
 <div class="row">
     <div class="left">
@@ -81,10 +82,7 @@ ________________________________________
 
 <style>
 
-.tip {
-    height: 30px;
-    line-height: 30px;
-}
+.tip{}
 
 .icon {
     width: 15px;
@@ -122,6 +120,7 @@ ________________________________________
 
 .font-small {
     /* font-size: 16px; */
+    text-align: left;
 }
 
 .font-bold {
